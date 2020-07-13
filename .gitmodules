@@ -1,0 +1,3 @@
+[submodule "Modulo"]
+	path = Modulo
+	url = git@GitHub:konami12/Modulo.git
